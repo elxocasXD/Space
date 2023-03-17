@@ -1,6 +1,6 @@
 --[[ 
 𝐁𝐲: Space#0234
-𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐢𝐬𝐜𝐨𝐫𝐝: https://discord.gg/79fKXVuJfr
+𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐢𝐬𝐜𝐨𝐫𝐝: https://discord.gg/966295RjzW
 ]]--
 
 
